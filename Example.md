@@ -26,4 +26,9 @@
   - Lower Bound = ```11− 6.708 ≈ 4.292```
 
 ```10 is within the range (no anomaly).```
- 
+
+- For 8:
+  - Upper Bound = ```11+6.708 ≈ 17.708```
+  - Lower Bound = ```11−6.708 ≈ 4.292```
+
+```8 is within the range (no anomaly).```
