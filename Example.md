@@ -32,3 +32,24 @@
   - Lower Bound = ```11−6.708 ≈ 4.292```
 
 ```8 is within the range (no anomaly).```
+
+- For 12:
+  - Upper Bound = ```11+6.708 ≈ 17.708```
+  - Lower Bound = ```11−6.708 ≈ 4.292```
+
+```12 is within the range (no anomaly).```
+
+- For 14:
+  - Upper Bound = ```11+6.708 ≈ 17.708```
+  - Lower Bound = ```11−6.708 ≈ 4.292```
+
+```14 is within the range (no anomaly).```
+
+- For 30:
+  - Upper Bound = ```11+6.708 ≈ 17.708```
+  - Lower Bound = ```11−6.708 ≈ 4.292```
+
+```30 is outside the range (anomaly detected).```
+
+**Conclusion:**
+- The script would detect an anomaly for the value 30 because it falls outside the expected range based on the calculated mean and standard deviation.
